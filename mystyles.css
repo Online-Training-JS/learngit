@@ -23,3 +23,9 @@ div {
         margin: 0 auto;
         width: auto;
     }}
+
+.photo {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+    }    
