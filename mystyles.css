@@ -10,7 +10,7 @@ body {
 }
 
 div {
-    width: 600px;
+    width: 800px;
     margin: 5em auto;
     padding: 2em;
     background-color: #fdfdff;
@@ -23,3 +23,9 @@ div {
         margin: 0 auto;
         width: auto;
     }}
+
+.photo {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+    }    
